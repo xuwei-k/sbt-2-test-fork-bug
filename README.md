@@ -1,0 +1,1 @@
+# sbt-2-test-fork-bug
